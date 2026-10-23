@@ -1,0 +1,1 @@
+{'marco': 'El servidor marco, con ip 192.168.5.3, cuyo rol es redes esta activo', 'sara': 'El servidor sara, con ip 192.168.5.6, cuyo rol es datos esta activo'}{'patricia': 'El servidor patricia, con ip 10.10.10.2, cuyo rol es web esta inactivo'}
